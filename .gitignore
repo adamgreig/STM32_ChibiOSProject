@@ -7,3 +7,4 @@ ChibiOS_*/
 *.elf
 *.dmp
 *.lst
+.dep
