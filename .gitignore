@@ -1,0 +1,9 @@
+ChibiOS_*/
+*.o
+*.swp
+*.map
+*.bin
+*.hex
+*.elf
+*.dmp
+*.lst
